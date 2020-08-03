@@ -35,6 +35,16 @@ This is my list of resouces (I have referred) for learning and practising Deep L
 * [Linear layers](https://pytorch.org/docs/stable/nn.html#linear-layers)
 * [Activation Functions](https://pytorch.org/docs/stable/nn.functional.html#non-linear-activation-functions)
 
+# Optimization
+##
+
+<Overview of training>
+  
+ReduceLRonPlataue
+Anneling
+
+Transfer learning
+
 Backpropogation during Batch Normalisation - https://chrisyeh96.github.io/2017/08/28/deriving-batchnorm-backprop.html
 
 My Repo for Neural Network from Scratch - https://github.com/harinath0906/Multilayer-Neural-Network-from-Scratch
