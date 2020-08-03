@@ -1,5 +1,7 @@
+# List of Resources
 This is my list of resouces ( I have used) for learning and practising Deep Learning.
 
+[Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8) is a great video about recent research and developments in deep learning, and hopes for 2020.
 
 Backpropogation during Batch Normalisation - https://chrisyeh96.github.io/2017/08/28/deriving-batchnorm-backprop.html
 
@@ -20,7 +22,7 @@ The below youtube videos from Welsh Labs breakdown some complex concepts. These 
 ### EfficientDet
 * [Theory](https://towardsdatascience.com/a-thorough-breakdown-of-efficientdet-for-object-detection-dc6a15788b73)
 * [Orginal Paper](https://arxiv.org/pdf/1911.09070.pdf)
-* [A very good implementation using PyTorch](https://www.kaggle.com/shonenkov/training-efficientdet)
+* [A very good implementation using PyTorch - for Object Detection and Classification](https://www.kaggle.com/shonenkov/training-efficientdet)
 
 
 ## Quantile Regression
