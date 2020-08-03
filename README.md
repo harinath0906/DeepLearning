@@ -29,7 +29,7 @@ The below youtube videos from Welsh Labs breakdown some complex concepts. These 
 ### Contents
 * [Theory - Part 1](https://medium.com/the-artificial-impostor/quantile-regression-part-1-e25bdd8d9d43)
 * [Theory - Part 2](https://medium.com/the-artificial-impostor/quantile-regression-part-2-6fdbc26b2629)
-### [A very good implementation using PyTorch](https://www.kaggle.com/carlossouza/quantile-regression-pytorch-tabular-data-only)
+* [Code - implementation using PyTorch](https://www.kaggle.com/carlossouza/quantile-regression-pytorch-tabular-data-only)
 
 
 Attention Model by Andrew Ng - https://www.youtube.com/watch?v=SysgYptB198
