@@ -38,6 +38,9 @@ This is my list of resouces (I have referred) for learning and practising Deep L
 # Optimization
 ##
 
+
+https://ruder.io/optimizing-gradient-descent/
+
 <Overview of training>
   
 ReduceLRonPlataue
