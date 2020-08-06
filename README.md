@@ -71,6 +71,8 @@ The below youtube videos from Welsh Labs breakdown some complex concepts. These 
 
 UniverseNet
 
+mmdetection - https://github.com/open-mmlab/mmdetection
+
 ## Quantile Regression
 ### Contents
 * [Theory - Part 1](https://medium.com/the-artificial-impostor/quantile-regression-part-1-e25bdd8d9d43)
