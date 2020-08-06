@@ -69,6 +69,7 @@ The below youtube videos from Welsh Labs breakdown some complex concepts. These 
 * [Orginal Paper](https://arxiv.org/pdf/1911.09070.pdf)
 * [A very good implementation using PyTorch - for Object Detection and Classification](https://www.kaggle.com/shonenkov/training-efficientdet)
 
+UniverseNet
 
 ## Quantile Regression
 ### Contents
